@@ -1,4 +1,3 @@
-![logo](https://github.com/Aashish12321/Aashish12321/blob/main/Github-banner.png)
 
 <h1 align="center">Hi 👋, I'm Aashish Kumar Sah</h1>
 <h3 align="center">A passionate Software developer from Nepal</h3>
