@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashish12321&label=Profile%20views&color=0e75b6&style=flat" alt="aashish12321" /> </p>
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Node Js**
 
 - 📫 How to reach me **shroffaashish@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Why do programmers prefer dark mode? - Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
